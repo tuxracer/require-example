@@ -1,1 +1,4 @@
 r.js -o scripts/app.build.js
+
+
+Script to be included on page will be written to: scripts/main-built.js
